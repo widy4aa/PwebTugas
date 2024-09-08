@@ -9,7 +9,6 @@
                         <td>Nama</td>
                         <td>Widya Fitriadi Nugraha</td>
                     </tr>
-                    
                     <tr>
                         <td>NIM</td>
                         <td>232410102047</td>
